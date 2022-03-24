@@ -1,4 +1,4 @@
-# BPTN React Movie Coding Challenge
+# BPTN React Movie App Coding Challenge
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
