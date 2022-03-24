@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Website
+Website can be viewed at: https://Alberteda.github.io/BPTN-REACT-MOVIE-APP-CODING-CHALLENGE
+
 ## Available Scripts
 
 In the project directory, you can run:
